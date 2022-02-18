@@ -70,3 +70,4 @@ elif(playerAction == 2 and botAction == 0):
 elif(playerAction == 2 and botAction == 1):
   print(f"you choose:{signs[playerAction]}\n bot choose:{signs[botAction]}\n")
   print("Player Win\n ＼(＾O＾)／")
+#ji 
